@@ -7,7 +7,7 @@ For CodePath
 This is a simple app that can change the text color of the text shown on the page, change the background color of the page, substitute the value of the displayed text, and reset the page back to its original theme. 
 
 ### App Walk-though
-<img src="https://i.imgur.com/XOKbuoI.gifv" width=200><br>
+<img src="https://i.imgur.com/XOKbuoI.gifv" 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!

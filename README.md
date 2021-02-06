@@ -4,10 +4,10 @@ For CodePath
 ## PREWORK
 
 ### App Description
-This is a simple app that can change the text color of the text shown on the page, change the background color of the page, substitute the value of the displayed text, and reset the page back to its original theme. 
+This is a simple app that can change the text color of the default text shown on the page, change the background color of the page, change the value of the displayed text, and reset the page back to its original theme. 
 
 ### App Walk-though
-<img src="https://i.imgur.com/zt0jbbC.gif" width=200><br>
+<img src="https://i.imgur.com/I43unky.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -21,5 +21,5 @@ This is a simple app that can change the text color of the text shown on the pag
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
+   - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
